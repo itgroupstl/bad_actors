@@ -5,6 +5,6 @@ Uses a threshold number of your choosing to match against a list of offending ht
 
 
 <strong>Installation</strong>
-Edit the script file with your threshold and http response code parameters
-Making sure it is executable. (sudo chmod +x badactors.sh)
-Run it. (sudo ./badactors.sh)
+Edit the script file with your threshold and http response code parameters <br />
+Making sure it is executable. (sudo chmod +x badactors.sh) <br />
+Run it. (sudo ./badactors.sh) <br />
